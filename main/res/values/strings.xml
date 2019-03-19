@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uppg_2_2</string>
+    <string name="highestprime">Högsta primtal</string>
+    <string name="empty">""</string>
+    <string name="getnext">"Hämta nästa primtal"</string>
+    <string name="quit">"Avsluta"</string>
+</resources>
